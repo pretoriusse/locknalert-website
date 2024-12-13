@@ -62,14 +62,14 @@ p {
 }
 
 /* Features Section */
-.features, .entryguard, .coming-soon {
+.features, .entryguard, .coming-soon .works-with {
     text-align: center;
     padding: 40px 20px;
     background: white;
     margin: 20px 0;
 }
 
-.features h2, .entryguard h2, .coming-soon h2 {
+.features h2, .entryguard h2, .coming-soon .works-with h2 {
     font-size: 28px;
     margin-bottom: 20px;
 }
